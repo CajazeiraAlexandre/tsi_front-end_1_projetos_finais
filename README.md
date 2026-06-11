@@ -18,7 +18,7 @@ O objetivo principal da disciplina é capacitar os estudantes na construção de
 
 Abaixo você encontra o histórico de turmas do curso. Acesse o link correspondente para visualizar as diretrizes daquele semestre, os temas propostos e a listagem completa dos projetos desenvolvidos pelas equipes:
 
-* 🚀 [Turma 2026.1](./turmas/turma_2026_1.md)
+* 🚀 [Turma 2026.1](./turmas/2026_1/README.md)
 
 ---
 **Professor Responsável:** Me. Alexandre Cajazeira  
