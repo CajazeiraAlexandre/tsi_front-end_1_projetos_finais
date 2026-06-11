@@ -36,10 +36,9 @@ Mapeamento inicial das páginas HTML interligadas que farão parte do sistema:
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas Pactuadas
+## 🛠️ Tecnologias e Ferramentas Utilizadas
 * **HTML5:** Estruturação semântica e foco em acessibilidade.
 * **CSS3:** Estilização moderna, variáveis, Flexbox e Grid Layout.
-* **JavaScript (Vanilla):** Lógica local para interações de tela.
 * **Git & GitHub:** Controle de versão distribuído e revisão via Pull Requests.
 
 ---
