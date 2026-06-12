@@ -18,8 +18,8 @@ A tabela abaixo lista os membros da equipe, o acesso aos respectivos perfis prof
 
 | Avatar | Nome Completo | Perfil GitHub | Principais Atribuições Técnicas |
 | :---: | :--- | :---: | :--- |
-| <img src="https://github.com/github-username.png" width="45px" style="border-radius:50%"> |Adriano Paes Landim Dos Santos| [🔗 @perfil1]([https://github.com/](https://github.com/casrn2026115tsit0018-design)) | Estruturação semântica do HTML5, arquitetura de formulários e validações nativas. |
-| <img src="https://github.com/github-username.png" width="45px" style="border-radius:50%"> | Marco Antônio Paes Galvão | [🔗 @perfil2]([https://github.com/](https://github.com/marcodcod)) | Design de layout geral com CSS Grid, estruturação de blocos responsivos e regras mobile-first. |
+| <img src="https://github.com/github-username.png" width="45px" style="border-radius:50%"> |Adriano Paes Landim Dos Santos| [🔗 @Adriano Paes Landim Dos Santos]([https://github.com/](https://github.com/casrn2026115tsit0018-design)) | Estruturação semântica do HTML5, arquitetura de formulários e validações nativas. |
+| <img src="https://github.com/github-username.png" width="45px" style="border-radius:50%"> | Marco Antônio Paes Galvão | [🔗 @Marco Antônio Paes Galvão]([https://github.com/](https://github.com/marcodcod)) | Design de layout geral com CSS Grid, estruturação de blocos responsivos e regras mobile-first. |
 | <img src="https://github.com/github-username.png" width="45px" style="border-radius:50%"> | Integrante 3 | [🔗 @perfil3](https://github.com/) | Estilização de componentes UI, alinhamentos unidimensionais com Flexbox e padronização visual. |
 | <img src="https://github.com/github-username.png" width="45px" style="border-radius:50%"> | Integrante 4 | [🔗 @perfil4](https://github.com/) | Implementação de interatividade com JavaScript, manipulação da DOM e gerenciamento de eventos. |
 
