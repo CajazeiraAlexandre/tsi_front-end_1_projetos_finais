@@ -1,4 +1,4 @@
-# 📌 [Nome do Projeto / Nome da Equipe]
+# 📌 [Sistema de Eventos Acadêmicos do Campus  / Equipe 3]
 
 Este documento apresenta o escopo, a proposta conceitual e a divisão de atribuições da equipe para o desenvolvimento do projeto final da disciplina de Desenvolvimento Web Front-End 1.
 
