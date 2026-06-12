@@ -5,7 +5,10 @@ Este documento apresenta o escopo, a proposta conceitual e a divisão de atribui
 ---
 
 ## 📖 Descrição do Tema
-*[Substitua este parágrafo por uma breve descrição (3 a 5 linhas) sobre a proposta do projeto da sua equipe. Explique qual problema o sistema resolve, quem é o público-alvo e o objetivo principal da interface que será construída.]*
+*[E um site para divulgaçao e exibição dos torneios de interclasse do instituto federal ifpi.
+OBJETIVO: cadastras e registrar os eventos
+SOLUCIONA: a falta de organizaçao e informação dos torneios.
+PUBLICO ALVO: docentes e dicentes do institutu]*
 
 ---
 
@@ -15,8 +18,8 @@ A tabela abaixo lista os membros da equipe, o acesso aos respectivos perfis prof
 
 | Avatar | Nome Completo | Perfil GitHub | Principais Atribuições Técnicas |
 | :---: | :--- | :---: | :--- |
-| <img src="https://github.com/github-username.png" width="45px" style="border-radius:50%"> | Integrante 1 | [🔗 @perfil1](https://github.com/) | Estruturação semântica do HTML5, arquitetura de formulários e validações nativas. |
-| <img src="https://github.com/github-username.png" width="45px" style="border-radius:50%"> | Integrante 2 | [🔗 @perfil2](https://github.com/) | Design de layout geral com CSS Grid, estruturação de blocos responsivos e regras mobile-first. |
+| <img src="https://github.com/github-username.png" width="45px" style="border-radius:50%"> |Adriano Paes Landim Dos Santos| [🔗 @Adriano Paes Landim Dos Santos]([https://github.com/](https://github.com/casrn2026115tsit0018-design)) | Estruturação semântica do HTML5, arquitetura de formulários e validações nativas. |
+| <img src="https://github.com/github-username.png" width="45px" style="border-radius:50%"> | Marco Antônio Paes Galvão | [🔗 @Marco Antônio Paes Galvão]([https://github.com/](https://github.com/marcodcod)) | Design de layout geral com CSS Grid, estruturação de blocos responsivos e regras mobile-first. |
 | <img src="https://github.com/github-username.png" width="45px" style="border-radius:50%"> | Integrante 3 | [🔗 @perfil3](https://github.com/) | Estilização de componentes UI, alinhamentos unidimensionais com Flexbox e padronização visual. |
 | <img src="https://github.com/github-username.png" width="45px" style="border-radius:50%"> | Integrante 4 | [🔗 @perfil4](https://github.com/) | Implementação de interatividade com JavaScript, manipulação da DOM e gerenciamento de eventos. |
 
@@ -28,11 +31,11 @@ A tabela abaixo lista os membros da equipe, o acesso aos respectivos perfis prof
 
 Mapeamento inicial das páginas HTML interligadas que farão parte do sistema:
 
-1. **Página Inicial (`index.html`):** Tela de boas-vindas contendo a apresentação do sistema, destaques dinâmicos e o menu global de navegação.
-2. **Página de Exibição/Catálogo (`explorar.html` ou similar):** Interface que utilizará obrigatoriamente **Grid Layout** para expor os itens, serviços ou dados do sistema em formato de cards organizados.
+1. **Página Inicial (`index.html`):** TELA DE BOAS VINDAS: copntem a barra de navegaçao fixa, placar dos ultimos jogos e uma seção de noticias para comunicar eventos futuros.
+2. **Página de exibição dos proximos eventos de exibição (`explorar.html` ou similar):** CARACTERISTCA: perfil dos times, perfil dos jogadores e proximos confrontos
 3. **Página de Detalhes (`detalhes.html`):** Tela focada em exibir informações aprofundadas de um item selecionado no catálogo.
-4. **Página de Ação/Formulário (`cadastro.html` ou `inscricao.html`):** Interface dedicada ao formulário complexo do sistema, contendo múltiplos tipos de entradas (*inputs*) e validações completas.
-5. **Mural de Informações (`regras.html` ou `sobre.html`):** Tela institucional contendo diretrizes, regras, documentação ou histórico do projeto.
+4. **Página de Ação/Formulário (`cadastro.html` ou `inscricao.html`):** Ficha de inscrição das equipes para o interclasse, onde o capitão da equipe irá escolher a modalidade e colocar o nome e matricula dos participantes.
+5. **Mural de Informações (`regras.html` ou `sobre.html`):** Reservado para exibição das regras do torneio
 
 ---
 
