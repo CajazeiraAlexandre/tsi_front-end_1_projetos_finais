@@ -18,9 +18,6 @@ A tabela abaixo lista os membros da equipe, o acesso aos respectivos perfis prof
 | <img src="https://github.com/@diogo455" width="45px" style="border-radius:50%"> | Diogo Farias | [🔗 @diogo455](https://github.com/) | Estruturação semântica do HTML5, arquitetura de formulários e validações nativas. |
 | <img src="https://github.com/@VictorEmanuel29" width="45px" style="border-radius:50%"> | Victor Emanuel | [🔗 @VictorEmanuel29](https://github.com/) | Design de layout geral com CSS Grid, estruturação de blocos responsivos e regras mobile-first. |
 | <img src="https://github.com/@marcosdanilo-collab" width="45px" style="border-radius:50%"> | Marcos | [🔗 @marcosdanilo-collab](https://github.com/) | Estilização de componentes UI, alinhamentos unidimensionais com Flexbox e padronização visual. |
-| Implementação de interatividade com JavaScript, manipulação da DOM e gerenciamento de eventos. |
-
-> 💡 **Dica para a equipe:** Substituam o `github-username.png` na tag `img` pelo nome de usuário real de vocês no GitHub. A plataforma carregará a foto de vocês automaticamente na tabela!
 
 ---
 
